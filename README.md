@@ -1,4 +1,4 @@
-# Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
+# Learn Probability Density Functions 
 ## Overview
 
 This project models a probability density function (PDF) using a roll-number-parameterized non-linear transformation applied to real-world air quality data.
